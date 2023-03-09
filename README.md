@@ -1,20 +1,17 @@
 
-# Apoyar Human
-
-Application destined to integrate multiple tools in order to manage the workflow of Apoyar as a company. This app should handle employee work logs, client projects, activities, leaves, holidays, invoicing, expensing...
-
+# LBV Fest
 
 ## Installation
 
 Fetch project from repository
 
 ```bash
-git clone https://gitlab.apoyar.eu/lokeshd/HRMS.git
+git clone https://...
 ```
 Install all npm packages and update the code igniter project
 
 ```bash
-cd HRMS
+cd lbvfest
 composer update
 npm install
 ```
